@@ -1,0 +1,23 @@
+Llaves:
+congresista, Movimiento, Circunscripcion, Fecha, Asistencia
+
+Función 2: Congresista con más fallas injustificadas
+Injustificadas
+- SIN EXCUSA
+- SUSPENSIÓN
+- SILLA VACÍA
+
+Función 3: Congresista con más asistencias
+Asistencias
+- ASISTIÓ
+
+Función 4: Porcentaje de asistencia por congresista
+Nombre: con el valor del nombre del congresista
+Porcentaje_Asistencia: redondeado a dos dígitos que indique el 
+porcentaje total de sesiones a las que asistieron
+ejemplo: 
+Total: 204
+Asisitó: 196
+Porcentaje = 96.08%
+
+Otro ejercició

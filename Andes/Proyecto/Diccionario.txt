@@ -1,0 +1,12 @@
+#Diccionario Asistencia
+# LLaves
+# congresista, movimiento, circunscripcion, fecha, dato_asistencia
+{'congresista': 'ZULETA BECHARA ERASMO ELIAS', 'movimiento': 'PARTIDO DE LA U', 'circunscripcion': 'CÓRDOBA', 'fecha': '09/12/2020', 'dato_asistencia': 'ASISTIÓ'}
+{'congresista': 'ZULETA BECHARA ERASMO ELIAS', 'movimiento': 'PARTIDO DE LA U', 'circunscripcion': 'CÓRDOBA', 'fecha': '10/12/2020', 'dato_asistencia': 'ASISTIÓ'}
+{'congresista': 'ZULETA BECHARA ERASMO ELIAS', 'movimiento': 'PARTIDO DE LA U', 'circunscripcion': 'CÓRDOBA', 'fecha': '11/12/2020', 'dato_asistencia': 'ASISTIÓ'}
+{'congresista': 'ZULETA BECHARA ERASMO ELIAS', 'movimiento': 'PARTIDO DE LA U', 'circunscripcion': 'CÓRDOBA', 'fecha': '14/12/2020', 'dato_asistencia': 'ASISTIÓ'}
+{'congresista': 'ZULETA BECHARA ERASMO ELIAS', 'movimiento': 'PARTIDO DE LA U', 'circunscripcion': 'CÓRDOBA', 'fecha': '15/12/2020', 'dato_asistencia': 'ASISTIÓ'}
+{'congresista': 'ZULETA BECHARA ERASMO ELIAS', 'movimiento': 'PARTIDO DE LA U', 'circunscripcion': 'CÓRDOBA', 'fecha': '16/12/2020', 'dato_asistencia': 'ASISTIÓ'}
+{'congresista': 'ZULETA BECHARA ERASMO ELIAS', 'movimiento': 'PARTIDO DE LA U', 'circunscripcion': 'CÓRDOBA', 'fecha': '17/12/2020', 'dato_asistencia': 'ASISTIÓ'}
+{'congresista': 'ZULETA BECHARA ERASMO ELIAS', 'movimiento': 'PARTIDO DE LA U', 'circunscripcion': 'CÓRDOBA', 'fecha': '18/12/2020', 'dato_asistencia': 'ASISTIÓ'}
+{'congresista': 'ZULETA BECHARA ERASMO ELIAS', 'movimiento': 'PARTIDO DE LA U', 'circunscripcion': 'CÓRDOBA', 'fecha': '18/12/2020', 'dato_asistencia': 'ASISTIÓ'}
